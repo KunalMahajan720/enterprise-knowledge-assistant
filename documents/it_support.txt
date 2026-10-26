@@ -1,0 +1,13 @@
+Company IT Support Policy
+
+1. Password Reset
+Employees who forget their passwords should use the company's approved password-reset process. If self-service recovery fails, contact the IT support team.
+
+2. Technical Issues
+Employees should report hardware, software, or network problems through the official IT support ticketing system.
+
+3. Support Hours
+The IT support team is available Monday to Friday, from 9:00 AM to 6:00 PM.
+
+4. Security
+Employees must never share their passwords. Suspicious emails and potential security incidents should be reported to the IT security team immediately.
