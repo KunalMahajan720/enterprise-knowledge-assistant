@@ -3,5 +3,4 @@ chromadb
 sentence-transformers
 pypdf
 requests
-pypdf
 pytest
